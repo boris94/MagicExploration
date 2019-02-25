@@ -1,0 +1,23 @@
+Stats:
+Knowledge -> Memory, Intelect, Mana
+Memory - more spells
+Intelect - more dmg
+Mana - More mana
+Health
+Mana Shield - passive, scales with knowledge, Max Shield takes hit, needs rest to restore
+
+Left click/Rigt click - normal attacks with action bar swapping elements
+Selection wheel for scrolls
+
+Elements:
+Fire
+Lightning
+Frost
+
+Inventory:
+Scrolls
+Resources
+Potions
+
+
+Talk to NPC about POI
