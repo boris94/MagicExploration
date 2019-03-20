@@ -14,6 +14,14 @@ Fire
 Lightning
 Frost
 
+Status effects from spells:
+Can't stack, charged overrides normal, normal can't be applied while charged is in effect
+
+Fire, normal - Burning, DOT
+Fire, charged - Aflame, bigger DOT
+Ice, normal - Chilled, slow
+Ice, charged - Frozen, stunned + slow afterwards
+
 Inventory:
 Scrolls
 Resources
