@@ -20,7 +20,7 @@ Can't stack, charged overrides normal, normal can't be applied while charged is 
 Fire, normal - Burning, DOT
 Fire, charged - Aflame, bigger DOT
 Ice, normal - Chilled, slow
-Ice, charged - Frozen, stunned + slow afterwards
+Ice, charged - Frozen, stunned + Chilled afterwards
 
 Inventory:
 Scrolls
